@@ -5,7 +5,7 @@
     "**/bower_components": true
   },
   "search.useIgnoreFiles": true,
-  "javascript.implicitProjectConfig.checkJs": true,
+  "js/ts.implicitProjectConfig.checkJs": true,
   "editor.formatOnSave": true,
   "files.associations": {
     "pg*.sql": "pgsql",
