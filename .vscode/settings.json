@@ -29,7 +29,7 @@
     {
       "name": "PG:Northwind",
       "server": "127.0.0.1",
-      "dialect": "PostgreSQL",
+      "driver": "PostgreSQL",
       "port": 5432,
       "database": "northwind",
       "username": "northwind_user",
@@ -40,7 +40,7 @@
     {
       "name": "MySQL:Northwind",
       "server": "127.0.0.1",
-      "dialect": "MySQL",
+      "driver": "MySQL",
       "port": 3306,
       "database": "northwind",
       "username": "northwind_user",
